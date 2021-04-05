@@ -1,5 +1,7 @@
+<div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
+</div>
 
 # Portfolio Index
 
