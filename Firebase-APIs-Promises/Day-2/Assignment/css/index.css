@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+.mainWrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

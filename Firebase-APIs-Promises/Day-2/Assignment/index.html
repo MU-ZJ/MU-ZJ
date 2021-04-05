@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src='js/index.js' defer></script>
+    <link rel='stylesheet' href='css/index.css'>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class='mainWrapper'>
+        <div class='submitWrapper' id='submitWrapper'>
+            <form>
+                <fieldset>
+                    <legend>New Order</legend>
+                    <label for='emailInput'>Email</label>
+                    <input type='text' id='emailInput'>
+                    <label for='typeInput'>Type</label>
+                    <input type='text' id='typeInput'>
+                    <label for='sizeInput'>Size</label>
+                    <input type='text' id='sizeInput'>
+                    <label for='priceInput'>Price</label>
+                    <input type='text' id='priceInput'>
+                    <button id='btnSubmit'>Submit</button>
+                </fieldset>
+            </form>
+            <div class='emailWrapper' id='emailWrapper'>
+                <fieldset>
+                    <legend>Search by email</legend>
+                    <label for='emailSearch'>Email</label>
+                    <input type='text' id='emailSearch'>
+                    <button id='emailSubmit'>Search</button>
+                    <button id='emailDelete'>Delete</button>
+                </fieldset>
+                <div class='emailResult' id='emailResult'>
+
+                </div>
+            </div>
+        </div>
+        <div class='contentWrapper' id='contentWrapper'>
+
+        </div>
+</body>
+
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+  <link rel='stylesheet' href="styles/index.css">
+  <title>Menu</title>
+</head>
+
+<body>
+  <section class="hero is-flex has-text-centered">
+    <div class="hero-body">
+      <p class="title">
+        Menu
+      </p>
+      <p class="subtitle">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, id incidunt. Quidem?
+      </p>
+        <div class="select">
+          <select id='filter'>
+            <option value='1'>All Items</option>
+            <option value='2'>Starters</option>
+            <option value='3'>Entrees</option>
+            <option value='4'>Desserts</option>
+          </select>
+        </div>
+  </section>
+  
+  <section class='section is-flex is-flex-direction-column is-align-items-center'>
+ 
+    <div class="columns is-flex is-flex-direction-column is-align-items-center" id='starterWrapper'>
+      <div class='is-flex is-align-items-center is-flex-direction-column'>
+      <h1 class='is-size-3'>Starters</h1>
+    </div>
+      <div class="column is-flex is-flex-wrap-wrap" id='starters'>
+       
+      </div>
+    </div>
+  
+    <div class="columns is-flex is-flex-direction-column is-align-items-center" id='entreeWrapper'>
+      <div class='is-flex is-align-items-center is-flex-direction-column'>
+        <h1 class='is-size-3'>Entrees</h1>
+      </div>
+      <div class="column is-flex is-flex-wrap-wrap" id='entrees'>
+
+      </div>
+    </div>
+    <div class="columns is-flex is-flex-direction-column is-align-items-center" id='dessertWrapper'>
+      <div class='is-flex is-align-items-center is-flex-direction-column'>
+        <h1 class='is-size-3'>Desserts</h1>
+      </div>
+      <div class="column is-flex is-flex-wrap-wrap" id='desserts'>
+
+      </div>
+    </div>
+
+
+  </section>
+
+  <script src='scripts/dishes.js'></script>
+  <script src='scripts/assignment.js'></script>
+</body>
+
+</html>

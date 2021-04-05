@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/barlowcondensed/v5/HTx3L3I-JCGChYJ8VI-L6OO_au7B6x_T2kn3.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  @font-face {
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/barlowcondensed/v5/HTx3L3I-JCGChYJ8VI-L6OO_au7B6xHT2g.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+html {
+    font-size: 15px;
+    background-color: #aaaaaa;
+    white-space: pre-line;
+    font-family: 'Barlow Condensed';
+}
+
+h1, h2 {
+    font-family: Ballet;
+    margin: 0;
+    padding: 0 20px;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+    font-family: 'Dancing Script';
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+a {
+    color:darkslategray;
+}
+a {
+    color:darkslategray;
+}
+
+a:hover {
+    color:red;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.box {
+    width: 500px;
+    margin: 0px auto;
+    background-color: seashell;
+    padding: 0px 20px 20px 20px;
+    border: 2px solid black;
+}
+

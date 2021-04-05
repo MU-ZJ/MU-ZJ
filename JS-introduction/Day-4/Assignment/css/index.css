@@ -1,0 +1,25 @@
+img[src="null"] {
+  display: none !important;
+}
+
+.mainImage {
+  width: 400px !important;
+  height: auto !important;
+}
+
+.card {
+  width: 400px;
+  height: auto;
+  padding: 1rem;
+  background-color: transparent;
+  box-shadow: transparent;
+}
+
+.hero {
+  background-color: lightslategray !important;
+}
+
+.section {
+  margin-left: 5%;
+  margin-right: 5%;
+}

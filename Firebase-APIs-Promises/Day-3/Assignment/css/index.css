@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+.mainWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: auto;
+    flex-wrap: wrap;
+}

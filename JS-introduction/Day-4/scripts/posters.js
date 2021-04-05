@@ -1,0 +1,1 @@
+images = ['assets/poster1.png', 'assets/poster1.png', 'assets/poster1.png', 'assets/poster1.png', 'assets/poster1.png']

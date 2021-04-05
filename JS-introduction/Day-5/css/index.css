@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+
+#content{
+    margin-top: 10%;
+}
+
+#wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

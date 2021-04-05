@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' href='css/index.css'>
+    <title>Document</title>
+</head>
+<body>
+    <div class='mainWrapper'>
+        <div class='loginWrapper'>
+            <input type='text' id='userEmailInput' placeholder="Email">
+            <input type='password' id='userPassInput' placeholder="Password">
+            <button id='logIn'>Login</button>
+            <button id='logOut' class='hidden'>Logout</button>
+            <button id='signUp'>Create Account</button>
+        </div>
+        <div class='submitWrapper hidden' id='submitWrapper'>
+            <form>
+                <fieldset>
+                    <legend>Input Store Name</legend>
+                    <label for='storeNameInput'>Store Name</label>
+                    <input type='text' id='storeNameInput'>
+                    <label for='storeContentInput'>Content</label>
+                    <input type='text' id='storeContentInput'>
+                    <button id='btnSubmit'>Submit</button>
+                </fieldset>
+            </form>
+        </div>
+        <div class='contentWrapper hidden' id='contentWrapper'>
+            <label for='storeContentUpdate'>Update Content</label>
+            <input id='storeContentUpdate'>
+            <ul id='storeList'>
+
+            </ul>
+        </div>
+    </div>
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-app.js"></script>
+
+    <!-- Add Firebase products that you want to use -->
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.6.0/firebase-auth.js"></script>
+
+    <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+        apiKey: "AIzaSyA4hd0-U2T29l77YKxbpp69Tr9Nqge8sOM",
+        authDomain: "groceryapp-eede4.firebaseapp.com",
+        projectId: "groceryapp-eede4",
+        storageBucket: "groceryapp-eede4.appspot.com",
+        messagingSenderId: "927366663862",
+        appId: "1:927366663862:web:f74845bf07463f42206017"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    // initialize firestore database 
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+    </script>
+    <script src='js/index.js'></script>
+</body>
+</html>
