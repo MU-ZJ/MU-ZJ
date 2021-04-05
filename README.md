@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<i class="devicon-python-plain colored"></i>
-
 # Portfolio Index
 
 ## Python
