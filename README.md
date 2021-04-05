@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="10" height="10" />
+
 # Portfolio Index
 
 ## Python
