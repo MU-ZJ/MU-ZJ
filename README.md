@@ -1,16 +1,18 @@
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" height="50" />
+<img src="./assets/icons/vim-original.svg" width="50" height="50" />
+<img src="./assets/icons/github-original.svg" width="50" height="50" />
+<img src="./assets/icons/Fedora-logo-eexpss.svg" width="50" height="50" />
+<img src="./assets/icons/python-original.svg" width="50" height="50" />
+<img src="./assets/icons/html5-original.svg" width="50" height="50" />
+<img src="./assets/icons/css3-original.svg" width="50" height="50" />
+<img src="./assets/icons/javascript-original.svg" width="50" height="50" />
+<img src="./assets/icons/nodejs-original.svg" width="50" height="50" />
+<img src="./assets/icons/react-original.svg" width="50" height="50" />
+<img src="./assets/icons/postgresql-original.svg" width="50" height="50" />
+<img src="./assets/icons/firebase-plain.svg" width="50" height="50" />
+<img src="./assets/icons/googlecloud-plain.svg" width="50" height="50" />
+<img src="./assets/icons/bulma-plain.svg" width="50" height="50" />
+<img src="./assets/icons/bootstrap-plain.svg" width="50" height="50" />
 </div>
 
 # Portfolio Index
