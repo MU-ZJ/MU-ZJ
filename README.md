@@ -10,7 +10,7 @@
 <img src="./assets/icons/react-original.svg" width="50" height="50" />
 <img src="./assets/icons/postgresql-original.svg" width="50" height="50" />
 <img src="./assets/icons/firebase-plain.svg" width="50" height="50" />
-<img src="./assets/icons/googlecloud-plain.svg" width="50" height="50" />
+<img src="./assets/icons/googlecloud-original.svg" width="50" height="50" />
 <img src="./assets/icons/bulma-plain.svg" width="50" height="50" />
 <img src="./assets/icons/bootstrap-plain.svg" width="50" height="50" />
 </div>
