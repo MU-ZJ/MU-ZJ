@@ -1,14 +1,13 @@
 #+ATTR_ORG: :width 50%
 [[file:./assets/icons/vim-small.png]][[file:./assets/icons/github-small.png]][[file:./assets/icons/python-small.png]][[file:./assets/icons/html5-small.png]][[file:./assets/icons/css3-small.png]][[file:./assets/icons/javascript-small.png]][[file:./assets/icons/nodejs-small.png]][[file:./assets/icons/react-small.png]][[file:./assets/icons/postgresql-small.png]][[file:./assets/icons/firebase-small.png]][[file:./assets/icons/googlecloud-small.png]][[file:./assets/icons/bulma-small.png]][[file:./assets/icons/bootstrap-small.png]]
-#+TITLE: Readme
-
+* Readme
 ** Python
 - [[file:./Python-Introduction/Day-2/activity1.py][Name Input Script]]
 - [[file:./Python-Introduction/Day-2/activity2.py][Simple Tip Calculator]]
 - [[file:./Python-Introduction/Day-2/assignment1.py][Simple Calculator]]
 - [[file:./Python-Introduction/Day-2/assignment2.py][Even/Odd Script]]
 - [[file:./Python-Introduction/Day-2/assignment3.py][FizzBuzz Script]]
-- [[File:./Python-Introduction/Day-3/assignment1.py][Factorial Script]]
+- [[file:./Python-Introduction/Day-2/assignment1.py][Factorial Script]]
 - [[file:./Python-Introduction/Day-3/assignment2.py][Palindrome Script]]
 - [[file:./Python-Introduction/Day-2/assignment3.py][Prime Number Script]]
 - [[file:./Python-Introduction/Day-4/activity1.py][Name Input Script w/String Interpolation]]
@@ -24,3 +23,25 @@
 - [[file:./Python-Classes-Files-UnitTests/Day-2/activity2.py][Unit Test Example]]
 - [[file:./Python-Classes-Files-UnitTests/Day-3/activity4.py][Duplicate Removal From File]]
 - [[file:./Python-Classes-Files-UnitTests/PoolTable][Pool Table Project]]
+
+** HTML/CSS
+- [[file:./HTML-CSS-FlexBox-ResponsiveDesign/Day-1/Assignment][Simple Recipes Website]]
+- [[file:./HTML-CSS-FlexBox-ResponsiveDesign/Day-3/assignment][Basic Flexbox Layout Template]]
+- [[file:./HTML-CSS-FlexBox-ResponsiveDesign/Day-3/assignment2][Iron Man Reactor Animation]]
+- [[file:./HTML-CSS-FlexBox-ResponsiveDesign/Day-5][Engadget Website]]
+
+** Javascript Introduction
+- [[file:./JS-introduction/Day-1/scripts/assignment1.js][Misc JS Exercises]]
+- [[file:./JS-introduction/Day-2/Assignment][JS ToDo List]]
+- [[file:./JS-introduction/Day-3/Assignment][Restaurant Menu]]
+- [[file:./JS-introduction/Day-4/Assignment][News Website]]
+- [[file:./JS-introduction/Day-5/scripts/activity.js][Email Validation]]
+- [[file:./Firebase-APIs-Promises/Day-1/Assignment][Super Hero Film Site w/API]]
+- [[file:./Firebase-APIs-Promises/Day-2/Assignment][Coffee Orders w/API]]
+- [[file:./Firebase-APIs-Promises/Day-3/Assignment][Weather Application]]
+- [[file:./Firebase-APIs-Promises/Day-4/Assignment][Grocery Application w/Firebase]]
+
+** Group Projects
+- [[https://github.com/MU-ZJ/AtlantaTouristApp][Atlanta Tourist Location Application]]
+- [[https://github.com/Murphy-ZJ/food-in-fridge][Recipe Search Application]]
+  + [[https://apricot-custard-84020.herokuapp.com][Live Link]]
