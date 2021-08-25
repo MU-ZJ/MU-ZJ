@@ -1,3 +1,26 @@
 #+ATTR_ORG: :width 50%
 [[file:./assets/icons/vim-small.png]][[file:./assets/icons/github-small.png]][[file:./assets/icons/python-small.png]][[file:./assets/icons/html5-small.png]][[file:./assets/icons/css3-small.png]][[file:./assets/icons/javascript-small.png]][[file:./assets/icons/nodejs-small.png]][[file:./assets/icons/react-small.png]][[file:./assets/icons/postgresql-small.png]][[file:./assets/icons/firebase-small.png]][[file:./assets/icons/googlecloud-small.png]][[file:./assets/icons/bulma-small.png]][[file:./assets/icons/bootstrap-small.png]]
 #+TITLE: Readme
+
+** Python
+- [[file:./Python-Introduction/Day-2/activity1.py][Name Input Script]]
+- [[file:./Python-Introduction/Day-2/activity2.py][Simple Tip Calculator]]
+- [[file:./Python-Introduction/Day-2/assignment1.py][Simple Calculator]]
+- [[file:./Python-Introduction/Day-2/assignment2.py][Even/Odd Script]]
+- [[file:./Python-Introduction/Day-2/assignment3.py][FizzBuzz Script]]
+- [[File:./Python-Introduction/Day-3/assignment1.py][Factorial Script]]
+- [[file:./Python-Introduction/Day-3/assignment2.py][Palindrome Script]]
+- [[file:./Python-Introduction/Day-2/assignment3.py][Prime Number Script]]
+- [[file:./Python-Introduction/Day-4/activity1.py][Name Input Script w/String Interpolation]]
+- [[file:./Python-Introduction/Day-4/activity2.py][Simple Address List]]
+- [[file:./Python-Introduction/Day-4/activity3.py][Python Nested Dictionary Example]]
+- [[file:./Python-Introduction/Day-4/assignment.py][Simple Task List]]
+- [[file:./Python-Introduction/Day-5/activity.py][Bubble Sort Script]]
+- [[file:./Python-Introduction/Day-5/algorithms.py][Misc Algorithms (Perfect Squares/Power of Calc/ Multiples Script)]]
+- [[file:./Python-Classes-Files-UnitTests/Day-1/Activity1.py][User and Address w/Classes]]
+- [[file:./Python-Classes-Files-UnitTests/Day-1/Activity2.py][Simple Bank Account w/Classes]]
+- [[file:./Python-Classes-Files-UnitTests/Day-1/assignment.py][Simple Grocery Application]]
+- [[file:./Python-Classes-Files-UnitTests/Day-2/activity1.py][Simple Exceptions Example]]
+- [[file:./Python-Classes-Files-UnitTests/Day-2/activity2.py][Unit Test Example]]
+- [[file:./Python-Classes-Files-UnitTests/Day-3/activity4.py][Duplicate Removal From File]]
+- [[file:./Python-Classes-Files-UnitTests/PoolTable][Pool Table Project]]
