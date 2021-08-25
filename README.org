@@ -1,4 +1,29 @@
 #+ATTR_HTML: width="20px"
-[[file:./assets/icons/vim-original.png]] [[file:./assets/icons/github-original.png]]
+[[file:./assets/icons/vim-original.png]]
+#+ATTR_HTML: width="20px"
+[[file:./assets/icons/github-original.png]]
+#+ATTR_HTML: width="20px"
 [[file:./assets/icons/Fedora-logo-eexpss.png]]
+#+ATTR_HTML: width="20px"
+[[file:./assets/icons/python-original.png]]
+#+ATTR_HTML: width="20px"
+[[file:./assets/icons/html5-original.png]]
+#+ATTR_HTML: width="20px"
+[[file:./assets/icons/css3-original.png]]
+#+ATTR_HTML: width="20px"
+[[file:./assets/icons/javascript-original.png]]
+#+ATTR_HTML: width="20px"
+[[file:./assets/icons/nodejs-original.png]]
+#+ATTR_HTML: width="20px"
+[[file:./assets/icons/react-original.png]]
+#+ATTR_HTML: width="20px"
+[[file:./assets/icons/postgresql-original.png]]
+#+ATTR_HTML: width="20px"
+[[file:./assets/icons/firebase-plain.png]]
+#+ATTR_HTML: width="20px"
+[[file:./assets/icons/googlecloud-original.png]]
+#+ATTR_HTML: width="20px"
+[[file:./assets/icons/bulma-plain.png]]
+#+ATTR_HTML: width="20px"
+[[file:./assets/icons/bootstrap-plain.png]]
 #+TITLE: Readme
