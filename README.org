@@ -1,3 +1,4 @@
 #+ATTR_HTML: width="20px"
-[[file:./assets/icons/vim-original.png]]
+[[file:./assets/icons/vim-original.png]] [[file:./assets/icons/github-original.png]]
+[[file:./assets/icons/Fedora-logo-eexpss.png]]
 #+TITLE: Readme
