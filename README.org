@@ -1,2 +1,2 @@
-file:./assets/icons/vim-original.svg
+[./assets/icons/vim-original.svg]
 #+TITLE: Readme
