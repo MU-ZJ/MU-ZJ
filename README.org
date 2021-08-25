@@ -1,2 +1,2 @@
-[./assets/icons/vim-original.svg]
+#+html <div><img src="./assets/icons/vim-original.svg" width="50" height="50" /></div>
 #+TITLE: Readme
