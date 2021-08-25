@@ -1,27 +1,3 @@
 #+ATTR_HTML: width="60"
-[[file:./assets/icons/vim-original.png]]
-#+ATTR_HTML: width="60"
-[[file:./assets/icons/github-original.png]]
-#+ATTR_HTML: width="60"
-[[file:./assets/icons/python-original.png]]
-#+ATTR_HTML: width="60"
-[[file:./assets/icons/html5-original.png]]
-#+ATTR_HTML: width="60"
-[[file:./assets/icons/css3-original.png]]
-#+ATTR_HTML: width="60"
-[[file:./assets/icons/javascript-original.png]]
-#+ATTR_HTML: width="60"
-[[file:./assets/icons/nodejs-original.png]]
-#+ATTR_HTML: width="60"
-[[file:./assets/icons/react-original.png]]
-#+ATTR_HTML: width="60"
-[[file:./assets/icons/postgresql-original.png]]
-#+ATTR_HTML: width="60"
-[[file:./assets/icons/firebase-plain.png]]
-#+ATTR_HTML: width="60"
-[[file:./assets/icons/googlecloud-original.png]]
-#+ATTR_HTML: width="60"
-[[file:./assets/icons/bulma-plain.png]]
-#+ATTR_HTML: width="60"
-[[file:./assets/icons/bootstrap-plain.png]]
+[[file:./assets/icons/vim-original.png]][[file:./assets/icons/github-original.png]][[file:./assets/icons/python-original.png]][[file:./assets/icons/html5-original.png]][[file:./assets/icons/css3-original.png]][[file:./assets/icons/javascript-original.png]][[file:./assets/icons/nodejs-original.png]][[file:./assets/icons/react-original.png]][[file:./assets/icons/postgresql-original.png]][[file:./assets/icons/firebase-plain.png]][[file:./assets/icons/googlecloud-original.png]][[file:./assets/icons/bulma-plain.png]][[file:./assets/icons/bootstrap-plain.png]]
 #+TITLE: Readme
