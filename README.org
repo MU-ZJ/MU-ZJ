@@ -42,7 +42,7 @@
 - [[file:./Firebase-APIs-Promises/Day-4/Assignment][Grocery Application w/Firebase]]
 
 ** Projects
-- [[git@github.com:MU-ZJ/MU-ZJ.git][Mars Rover Gallery]]
+- [[https://github.com/MU-ZJ/nasa-project][Mars Rover Gallery]]
   + [[https://nasagallery.herokuapp.com/][Live Link]]
 - [[https://github.com/MU-ZJ/AtlantaTouristApp][Atlanta Tourist Location Application]]
 - [[https://github.com/Murphy-ZJ/food-in-fridge][Recipe Search Application]]
